@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
-## My Skill Set  
+## My Skill Set 
+<table><tr><td valign="top" width="33%">
 ### 🚀💻 Technologies & Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
