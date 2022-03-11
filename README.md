@@ -77,7 +77,9 @@
 <a href="https://www.youtube.com/user/Mustax Proect" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
- ![t.me/c](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://t.me/BIRD_from_HELL" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>                                                                                                                                              
 </div>  
   
 
