@@ -18,7 +18,6 @@
 - 🤖 I'm also a telegram bot developer  
 
 
-- My hobby is watching on ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
   
 
 <br/>  
