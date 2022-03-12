@@ -78,7 +78,9 @@
 </a> 
 <a href="https://t.me/BIRD_from_HELL" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>                                                                                                                                              
+</a>
+<a href="beban1keluarga@protonmail.com" target="_blank">
+<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </div>  
   
 
