@@ -3,8 +3,7 @@
 </div>  
   
 
-### <div align="center">hi I'm Ababil Mustax, I'm a Student and a novice programmer👋</div>  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E19&width=435&lines=Hi+My+Name+is+Ababil)](https://git.io/typing-svg)
 
 - 🌱 I'm currently learning several programming languages  
   
