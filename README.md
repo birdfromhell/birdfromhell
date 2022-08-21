@@ -3,7 +3,7 @@
 </div>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=450&height=200&lines=Hi+My+Name+Is+Ababil+;I'm+16+Yo;I+live+in+Indonesia;I+Noob+In+FrontEnd+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&duration=3500&pause=500&color=F7F7F7&vCenter=true&multiline=true&width=450&height=125&lines=Hi+My+Name+Is+Ababil+;I'm+16+Yo;I+live+in+Indonesia;I+Noob+In+FrontEnd+)](https://git.io/typing-svg)
 
 ## My Skill Set  
 
