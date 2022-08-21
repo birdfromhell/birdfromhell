@@ -51,8 +51,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>  
 
-<br/>  
-
+## My Favorite IDE
+<p>
+  <a href="http://avaloniaui.net/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
 
 
 ## Connect with me  
