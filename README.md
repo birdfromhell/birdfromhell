@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/main/src/header_.png" align="center" style="width: 30%" />
+<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/main/src/header_.png" />
 </div>  
   
 
