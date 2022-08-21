@@ -5,7 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&duration=3500&pause=500&color=F7F7F7&vCenter=true&multiline=true&width=450&height=125&lines=Hi+My+Name+Is+Ababil+;I'm+16+Yo;I+live+in+Indonesia;I+Noob+In+FrontEnd+)](https://git.io/typing-svg)
 
-## My Skill Set  
+
+<p align="center">
+  <strong>My Skill</strong>
+ </p>
 
 <p align="center">
 <strong>Language & Technologies</strong  
@@ -26,8 +29,9 @@
 </div>  
 
 
-
-### Learning  
+<p align="center">
+  <strong>On Learning</strong>
+  </p>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
@@ -36,7 +40,9 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Dart" height="50" />
 </div>  
 
-## My IDE
+ <p align="center">
+ <strong>My IDE For Learning And Development</strong>
+ </p>
 <p align="center">
   <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
@@ -52,8 +58,9 @@
   </a>
   </p>
 
-
-## Connect with me  
+<p align="center">
+  <strong>Connect With Me</strong>
+  </p> 
 <div align="center">
 <a href="https://github.com/birdfromhell" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
