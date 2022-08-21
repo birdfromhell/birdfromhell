@@ -49,13 +49,19 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>  
 
-## My Favorite IDE
+## My IDE
 <p>
   <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://jetbrains.net/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt"phpstorm" style="vertical-align:top; margin:4px">
+    <a href="http://Jetbrains.net/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="Avalonia" style="vertical-align:top;margin:4px">
+  </a>
+    <a href="http://Jetbrains.net/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
+    <a href="http://Jetbrains.net/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
 
 
