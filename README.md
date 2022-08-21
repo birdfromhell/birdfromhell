@@ -2,9 +2,10 @@
 <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/main/src/header_.png" />
 </div>  
  
- <a align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+My+Name+is+Ababil)](https://git.io/typing-svg)
-</a>
+
+
+
 - 🌱 I'm currently learning several programming languages  
   
 
