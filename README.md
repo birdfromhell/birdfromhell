@@ -5,11 +5,6 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=22&pause=1000&color=F7F7F7&vCenter=true&width=300&lines=Hi+My+Name+Is+Ababil;I'm+16+yo;+I'm+currently+learning+several+programming+languages;I+Noob+In+FrontEnd)](https://git.io/typing-svg)
 
-
-<br>
-
-
-
 ## My Skill Set  
 
 
