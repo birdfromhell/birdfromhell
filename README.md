@@ -9,7 +9,7 @@
 <p align="center">
   <strong>My Skill</strong>
  </p>
-
+<br>
 <p align="center">
 <strong>Language & Technologies</strong  
 </p>
@@ -32,6 +32,7 @@
 <p align="center">
   <strong>On Learning</strong>
   </p>
+  <br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
@@ -39,10 +40,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Dart" height="50" />
 </div>  
-
+<br>
  <p align="center">
  <strong>My IDE For Learning And Development</strong>
  </p>
+  <br>
 <p align="center">
   <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
@@ -57,7 +59,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
   </p>
-
+<br>
 <p align="center">
   <strong>Connect With Me</strong>
   </p> 
