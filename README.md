@@ -12,9 +12,7 @@
   
 
 - 🏘️   i live in bandung  
-  
-
-- 🤖 I'm also a telegram bot developer  
+   
 
 
   
@@ -25,7 +23,7 @@
 ## My Skill Set  
 
 
-### 🚀💻 Technologies & Tools  
+### 🚀💻 Language & Technologies  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -53,8 +51,11 @@
 
 ## My Favorite IDE
 <p>
-  <a href="http://avaloniaui.net/">
+  <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://jetbrains.net/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt"phpstorm" style="vertical-align:top; margin:4px">
   </a>
 
 
