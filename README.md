@@ -53,6 +53,9 @@
 
 <br/>  
 
+<p align="center">
+  <!-- Badges go here>
+</p>
 
 ## Connect with me  
 <div align="center">
