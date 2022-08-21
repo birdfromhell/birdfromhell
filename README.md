@@ -42,6 +42,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Dart" height="50" />
 </div>  
 <br>
+ <br>
  <p align="center">
  <strong>My IDE For Learning And Development</strong>
  </p>
