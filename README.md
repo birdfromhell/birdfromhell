@@ -50,7 +50,7 @@
 </div>  
 
 ## My IDE
-<p>
+<p align="center">
   <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
@@ -63,6 +63,7 @@
     <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
+  </p>
 
 
 ## Connect with me  
