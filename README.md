@@ -87,4 +87,6 @@
 
 <br />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&duration=3500&pause=10000&color=F7F7F7&vCenter=true&multiline=true&width=450&lines=Thanks+For+Visiting+My+Github)](https://git.io/typing-svg)
+
 ----
