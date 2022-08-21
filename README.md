@@ -8,7 +8,7 @@
 ## My Skill Set  
 
 <p align="center">
-### 🚀💻 Language & Technologies  
+<strong>Language & Technologies</strong  
 </p>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
