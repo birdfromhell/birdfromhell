@@ -39,7 +39,7 @@
 <br>
  <br>
  <p align="center">
- <strong>My IDE For Learning And Development</strong>
+ <strong>My Tools For Learning And Development</strong>
  </p>
 <p align="center">
   <a href="http://Jetbrains.net/">
@@ -54,7 +54,10 @@
     <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
-  </p>
+<a href="https://github.com/birdfromhell" target="_blank">
+<img src=https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</p>
 <br>
 <p align="center">
   <strong>Connect With Me</strong>
@@ -79,8 +82,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&hide_border=true&layout=compact" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&hide_border=true&layout=compact" align="center" /></div>
 <br/>  
 
   
