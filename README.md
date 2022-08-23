@@ -54,16 +54,23 @@
     <a href="https://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
+
+</p>
+
+<br>
+
+<p align="center">
+<strong>My Device</strong>
+</p>
+
+<p align="center">
 <a href="https://github.com/birdfromhell" target="_blank">
 <img src=https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://Jetbrains.net">
     <img src="https://github.com/birdfromhell/birdfromhell/blob/main/Assets/ryzen-3-5300u.svg" alt="ryzen" style="vertical-align:top; margin:4px">
   </a>
 </p>
-
-<br>
 
 <p align="center">
   <strong>Connect With Me</strong>
