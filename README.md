@@ -41,7 +41,7 @@
  <p align="center">
  <strong>My Tools For Learning And Development</strong>
  </p>
-<p align="center">
+<img align="center">
   <a href="http://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
@@ -57,8 +57,12 @@
 <a href="https://github.com/birdfromhell" target="_blank">
 <img src=https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-</p>
+<a href="http://Jetbrains.net/">
+    <img src="https://github.com/birdfromhell/birdfromhell/blob/main/Assets/ryzen-3-5300u.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
+
 <br>
+
 <p align="center">
   <strong>Connect With Me</strong>
   </p> 
