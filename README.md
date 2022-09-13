@@ -85,13 +85,13 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/BIRDfromHELL_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/msx.env/" target="_blank">
 <img src=https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/BIRD_from_HELL" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>  
   
