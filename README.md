@@ -1,5 +1,3 @@
-## A code is like love, it was created with clear intentions at the beginning, but it can get complicated
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/main/src/header_.png" />
