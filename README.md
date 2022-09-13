@@ -56,6 +56,9 @@
     <a href="https://Jetbrains.net/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://Jetbrains.net/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_clion.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 
