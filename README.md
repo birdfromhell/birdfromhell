@@ -98,10 +98,9 @@
 
 ## Github Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdfromhell&show_icons=true&theme=dracula)
-<br/>  
-
+![](https://github-readme-stats.vercel.app/api?username=birdfromhell&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=birdfromhell&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 
 <br/>  
