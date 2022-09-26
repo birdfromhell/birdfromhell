@@ -1,4 +1,4 @@
-
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbirdfromhell&s=40&c=00ff00&bg=00000000&no=4&ff=digi)
 <div align="center">
 <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/main/src/header_.png" />
 </div>  
