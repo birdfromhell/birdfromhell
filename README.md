@@ -97,11 +97,10 @@
 
 
 ## Github Stats 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&langs_count=8" align="center" /></div>  
+ 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=birdfromhell" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&langs_count=8" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&langs_count=8&theme=dracula" height="150" alt="languages graph"  />
 </div>
   
 
