@@ -1,10 +1,12 @@
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbirdfromhell&s=40&c=00ff00&bg=00000000&no=4&ff=digi)
+<div align="center">
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbirdfromhell&s=40&c=00ff00&bg=00000000&no=4&ff=digi" align="center" />
+</div>  
 <div align="center">
 <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/main/src/header_.png" />
 </div>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&duration=3500&pause=500&color=F7F7F7&vCenter=true&multiline=true&width=450&height=125&lines=Hi+My+Name+Is+Ababil+;I'm+16+Yo;I+live+in+Indonesia;I+Noob+In+FrontEnd+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&duration=3500&pause=500&color=00FF00FF&vCenter=true&multiline=true&width=450&height=125&lines=Hi+My+Name+Is+Ababil+;I'm+16+Yo;I+live+in+Indonesia;I+Noob+In+FrontEnd+)](https://git.io/typing-svg)
 
 <br>
 <p align="center">
@@ -106,9 +108,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbirdfromhell&s=40&c=00ff00&bg=00000000&no=4&ff=digi" align="center" />
-</div>  
+
 
 <br />
 
