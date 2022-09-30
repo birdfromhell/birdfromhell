@@ -113,8 +113,9 @@
 
 
 <br />
-
-## Never stop learning because life never stops teaching.
+<p align="center">
+  <strong>Never stop learning because life never stops teaching</strong>
+  </p>
 
 
 
