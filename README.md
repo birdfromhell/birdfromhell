@@ -27,6 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://github.com/birdfromhell/birdfromhell/blob/main/Assets/VLHerokuIcon.svg" alt="heroku" height="50"/>
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" height="50"/>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50"/>
 </div>  
 
