@@ -91,7 +91,7 @@
 ## Github Stats 
  
   <div align="center">
-  [![birdfromhell's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdfromhell&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=birdfromhell&count_private=true&show_icons=true&theme=tokyonight" alt=stat/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdfromhell&layout=compact&theme=chartreuse-dark&langs_count=6" height="150" alt="languages graph"  />
 </div>
   
