@@ -1,8 +1,5 @@
 ### Hi there 👋, My Name Is Ababil Mustax
 #### I am Junior Backend Engineer
-This Is My Github Profile
-
-Skills: Python | Django | Java | Javascript
 
 
 
