@@ -1,6 +1,6 @@
 ### Hi there , My Name Is Ababil
 ### I am Junior Backend Engineer
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fyfdjnjh2hw5pepndusf4wgpje&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fyfdjnjh2hw5pepndusf4wgpje&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fyfdjnjh2hw5pepndusf4wgpje&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fyfdjnjh2hw5pepndusf4wgpje&redirect=true)
 
 
 ![birdfromhell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=birdfromhell&theme=blueberry&hide_border=true)
