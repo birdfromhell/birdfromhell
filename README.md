@@ -8,4 +8,4 @@
 
 ![birdfromhell's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdfromhell\&hide=pullrequests,contribs\&show_icons=true\&theme=blueberry&hide_border=true&count_private=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=birdfromhell)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=birdfromhell)](https://github.com/anuraghazra/github-readme-stats)
