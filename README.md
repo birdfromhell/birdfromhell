@@ -5,6 +5,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=birdfromhell&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdfromhell\&include_all_commits=true&show_icons=true\&theme=blueberry&hide_border=true&count_private=true)
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=birdfromhell)](https://github.com/anuraghazra/github-readme-stats)
